@@ -1,0 +1,2 @@
+,TP,FP,TN,FN,Sensitivity,Specificity,PPV,NPV,Precision,Recall,Fbeta
+ASFODQR,178,21,46,88,['0.669'],['0.687'],['0.894'],['0.343'],['0.894'],['0.669'],0.892
