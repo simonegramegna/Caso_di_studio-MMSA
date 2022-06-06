@@ -35,3 +35,7 @@ I risultati sono stampati a video inoltre le matriche ed i grafici ottenuti dall
 - Grafici delle anomalie rilevate da ciascuno dei quattro modelli
 - File csv delle anomalie rilevate per ciascuno dei modelli
 - Matrici di confusione
+
+## 6. Repository utilizzate
+1. Esperimento LAAD, autoencoder con cui ho ottenuto i risultati di riferimento [LAAD-Github](https://github.com/gireeshkbogu/LAAD)
+2. Esperimento utilizzato per fare il confronto tra i modelli non supervisionati [Anomaly detection COVID](https://github.com/gireeshkbogu/AnomalyDetect)
